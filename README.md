@@ -1,6 +1,6 @@
-# Sozai Dangeon Support
+# エレメンタルディガーズ Support
 
-Support site for Sozai Dangeon.
+Support site for エレメンタルディガーズ / Elemental Diggers.
 
 GitHub Pages URL after publishing:
 
